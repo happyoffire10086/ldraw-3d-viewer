@@ -1,0 +1,11 @@
+0 Demo model - three bricks
+0 Name: demo.ldr
+0 Author: ldraw-3d-viewer
+0 !LICENSE CC BY 4.0
+0 !LDRAW_ORG Unofficial_Submodel
+0
+0 三层砖示例，演示步骤（0 STEP）和标准零件引用
+1 4 0 -24 0 1 0 0 0 1 0 0 0 1 3001.dat
+1 14 0 -48 0 1 0 0 0 1 0 0 0 1 3001.dat
+0 STEP
+1 1 40 -24 0 1 0 0 0 1 0 0 0 1 3002.dat

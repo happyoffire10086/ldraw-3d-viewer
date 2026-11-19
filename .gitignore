@@ -1,0 +1,17 @@
+# 依赖
+node_modules/
+
+# 生成的模型数据（每个站点自己的，不入库）
+viewer-data/
+
+# 参考站快照（提取脚本的输入，不入库）
+refsite-raw.html
+
+# 打包产物
+*.tar.gz
+*.zip
+
+# 系统/编辑器
+.DS_Store
+Thumbs.db
+*.log
